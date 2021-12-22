@@ -7,7 +7,7 @@
 </h3>
 
 <h2 align="center">
-    I'm a Full-Stack Web/Mobile Developer 👨🏽‍💻📲, and singer 🎤 (if bathroom singing counts 😅)!
+    I'm a Full-Stack Web/Mobile Developer 💻📲, and singer 🎤 (if bathroom singing counts 😅)!
 </h2>
 
 I love and enjoy building web and mobile apps that solve real problems, and make the lives of people a little bit easier.
