@@ -15,9 +15,9 @@ I love and enjoy building web and mobile apps that solve real problems, and make
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/steven-armoo-945118158/"><img align="left" src="https://raw.githubusercontent.com/iamnevets/iamnevets/main/images/linkedin.png" alt="icon | LinkedIn” width=”21px"/></a>
-<a href="https://twitter.com/iam_nevets_/"><img align="left" src="https://raw.githubusercontent.com/iamnevets/iamnevets/main/images/twitter.png" alt="icon | Twitter width=”21px"/></a>
-<a href="https://www.instagram.com/iam_nevets/"><img align="left" src="https://raw.githubusercontent.com/iamnevets/iamnevets/main/images/instagram.png" alt="icon | Instagram width=”21px"/></a>
+<a href="https://www.linkedin.com/in/steven-armoo-945118158/"><img align="left" src="https://raw.githubusercontent.com/iamnevets/iamnevets/main/images/linkedin.png" alt="icon | LinkedIn" width="21px"/></a>
+<a href="https://twitter.com/iam_nevets_/"><img align="left" src="https://raw.githubusercontent.com/iamnevets/iamnevets/main/images/twitter.png" alt="icon | Twitter" width="21px"/></a>
+<a href="https://www.instagram.com/iam_nevets/"><img align="left" src="https://raw.githubusercontent.com/iamnevets/iamnevets/main/images/instagram.png" alt="icon | Instagram" width="21px"/></a>
 
 </br>
 
