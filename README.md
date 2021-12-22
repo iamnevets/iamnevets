@@ -78,7 +78,7 @@ I love and enjoy building web and mobile apps to solve real world problems, and 
 
 ## 📈 GitHub Stats
 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=iamnevets)](https://github.com/iamnevets)
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=iamnevets&theme=tokyonight)](https://github.com/iamnevets)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamnevets&layout=compact)](https://github.com/iamnevets)
 
 
