@@ -27,17 +27,14 @@ I love and enjoy building web and mobile apps to solve real world problems, and 
 
 ## 🔭 I'm currently working on
 
-- A location-finding, and directions mobile app for university campuses
-- A geolocation-based class attendance mobile app for universities
-- My flutter skill
-- My C# and .Net 5 skill
+- A medical consultation application
 
 
 
 ## 🌱 I'm currently learning
 
-- Understanding DevOps
-- Implementing C# Unit Testing in .Net 5
+- Domain Driven Design and Clean architecture
+- Distributed Systems (MicroServices)
 
 
 
@@ -46,6 +43,7 @@ I love and enjoy building web and mobile apps to solve real world problems, and 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
