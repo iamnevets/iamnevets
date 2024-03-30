@@ -7,10 +7,10 @@
 </h3>
 
 <h2 align="center">
-    I'm a Full-Stack Web/Mobile Developer 💻📲, and singer 🎤 (if bathroom singing counts 😅)!
+    I'm a full stack software developer 💻📲, and singer 🎤 (if bathroom singing counts 😅)!
 </h2>
 
-I love and enjoy building web and mobile apps to solve real world problems, and make the lives of people a little bit better.
+I love and enjoy building web and mobile apps to solve real-world problems and make the lives of people a little bit better.
 
 
 ### 🤝 Connect with me:
@@ -21,20 +21,19 @@ I love and enjoy building web and mobile apps to solve real world problems, and 
 
 </br>
 
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+- 💬 If you have any questions/feedback, please do not hesitate to reach out to me!
 
 
 
 ## 🔭 I'm currently working on
 
-- A medical consultation application
+- A review system
 
 
 
 ## 🌱 I'm currently learning
 
-- Domain Driven Design and Clean architecture
-- Distributed Systems (MicroServices)
+- NAND2TETRIS on coursera
 
 
 
